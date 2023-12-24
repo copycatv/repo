@@ -1,0 +1,6 @@
+﻿  comp3311.assignment4.cpp
+C:\Users\steve\source\repos\comp3311.assignment4\comp3311.assignment4\comp3311.assignment4.cpp(595,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\steve\source\repos\comp3311.assignment4\comp3311.assignment4\comp3311.assignment4.cpp(599,26): warning C4018: '<': signed/unsigned 不相符
+C:\Users\steve\source\repos\comp3311.assignment4\comp3311.assignment4\comp3311.assignment4.cpp(623,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\steve\source\repos\comp3311.assignment4\comp3311.assignment4\comp3311.assignment4.cpp(626,27): warning C4018: '<': signed/unsigned 不相符
+  comp3311.assignment4.vcxproj -> C:\Users\steve\source\repos\comp3311.assignment4\Debug\comp3311.assignment4.exe
